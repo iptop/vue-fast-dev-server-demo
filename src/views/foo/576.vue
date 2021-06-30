@@ -1,0 +1,17 @@
+<template>
+  <div class="page">
+    576
+  </div>
+</template>
+<script>
+export default {
+  name: 'foo-576'
+}
+</script>
+
+<style lang="scss" scoped>
+.page{
+  font-size: 18px;
+  color: #000;
+}
+</style>
